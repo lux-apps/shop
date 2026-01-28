@@ -1,0 +1,28 @@
+# Lux Shop
+
+> E-commerce platform accepting crypto payments on Lux Network.
+
+## About
+Lux Shop is an e-commerce platform enabling merchants and buyers to transact using cryptocurrency on Lux Network. It provides storefront creation, product management, crypto payment processing, and order fulfillment tools. Low fees and instant settlement make it ideal for both digital and physical goods commerce.
+
+## Key Features
+- Merchant storefront creation and customization
+- Crypto payment processing with instant settlement
+- Support for LUX, stablecoins, and major tokens
+- Product catalog and inventory management
+- Order management and fulfillment tracking
+- Low transaction fees on Lux Network
+- Fiat conversion options for merchants
+- Buyer protection and dispute resolution
+- API integration for existing e-commerce platforms
+- Mobile-responsive storefronts
+
+## Links
+- [Website](https://lux.shop)
+- [Lux Network](https://lux.network)
+- [Documentation](https://docs.lux.network/shop)
+- [Merchant Portal](https://lux.shop/merchant)
+
+## Contact
+- Support: support@lux.network
+- Merchant Support: merchants@lux.network
